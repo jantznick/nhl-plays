@@ -1,0 +1,20 @@
+
+GAME PK:
+2009020647
+PLAY JSON:
+{'players': [{'player': {'id': 8466202, 'fullName': 'Maxim Afinogenov', 'link': '/api/v1/people/8466202'}, 'playerType': 'Shooter'}, {'player': {'id': 8473434, 'fullName': 'Chad Johnson', 'link': '/api/v1/people/8473434'}, 'playerType': 'Goalie'}], 'result': {'event': 'Shot', 'eventCode': 'ATL3901', 'eventTypeId': 'SHOT', 'description': 'Maxim Afinogenov Snap Shot saved by Chad Johnson', 'secondaryType': 'Snap Shot'}, 'about': {'eventIdx': 15, 'eventId': 3901, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '', 'dateTime': '2010-01-08T00:00:00Z', 'goals': {'away': 1, 'home': 1}}, 'coordinates': {}, 'team': {'id': 11, 'name': 'Atlanta Thrashers', 'link': '/api/v1/teams/11', 'triCode': 'ATL'}}
+
+GAME PK:
+2009020647
+PLAY JSON:
+{'players': [{'player': {'id': 8466202, 'fullName': 'Maxim Afinogenov', 'link': '/api/v1/people/8466202'}, 'playerType': 'Shooter'}, {'player': {'id': 8473434, 'fullName': 'Chad Johnson', 'link': '/api/v1/people/8473434'}, 'playerType': 'Goalie'}], 'result': {'event': 'Shot', 'eventCode': 'ATL3901', 'eventTypeId': 'SHOT', 'description': 'Maxim Afinogenov Snap Shot saved by Chad Johnson', 'secondaryType': 'Snap Shot'}, 'about': {'eventIdx': 15, 'eventId': 3901, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '', 'dateTime': '2010-01-08T00:00:00Z', 'goals': {'away': 1, 'home': 1}}, 'coordinates': {}, 'team': {'id': 11, 'name': 'Atlanta Thrashers', 'link': '/api/v1/teams/11', 'triCode': 'ATL'}}
+
+GAME PK:
+2009020647
+PLAY JSON:
+{'players': [{'player': {'id': 8466202, 'fullName': 'Maxim Afinogenov', 'link': '/api/v1/people/8466202'}, 'playerType': 'Shooter'}, {'player': {'id': 8473434, 'fullName': 'Chad Johnson', 'link': '/api/v1/people/8473434'}, 'playerType': 'Goalie'}], 'result': {'event': 'Shot', 'eventCode': 'ATL3901', 'eventTypeId': 'SHOT', 'description': 'Maxim Afinogenov Snap Shot saved by Chad Johnson', 'secondaryType': 'Snap Shot'}, 'about': {'eventIdx': 15, 'eventId': 3901, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '', 'dateTime': '2010-01-08T00:00:00Z', 'goals': {'away': 1, 'home': 1}}, 'coordinates': {}, 'team': {'id': 11, 'name': 'Atlanta Thrashers', 'link': '/api/v1/teams/11', 'triCode': 'ATL'}}
+
+GAME PK:
+2009020647
+PLAY JSON:
+{'players': [{'player': {'id': 8466202, 'fullName': 'Maxim Afinogenov', 'link': '/api/v1/people/8466202'}, 'playerType': 'Shooter'}, {'player': {'id': 8473434, 'fullName': 'Chad Johnson', 'link': '/api/v1/people/8473434'}, 'playerType': 'Goalie'}], 'result': {'event': 'Shot', 'eventCode': 'ATL3901', 'eventTypeId': 'SHOT', 'description': 'Maxim Afinogenov Snap Shot saved by Chad Johnson', 'secondaryType': 'Snap Shot'}, 'about': {'eventIdx': 15, 'eventId': 3901, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '', 'dateTime': '2010-01-08T00:00:00Z', 'goals': {'away': 1, 'home': 1}}, 'coordinates': {}, 'team': {'id': 11, 'name': 'Atlanta Thrashers', 'link': '/api/v1/teams/11', 'triCode': 'ATL'}}

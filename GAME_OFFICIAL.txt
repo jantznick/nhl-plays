@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010030
+PLAY JSON:
+{'result': {'event': 'Game Official', 'eventCode': 'CAR981', 'eventTypeId': 'GAME_OFFICIAL', 'description': 'Game Official'}, 'about': {'eventIdx': 291, 'eventId': 981, 'period': 3, 'periodType': 'REGULAR', 'ordinalNum': '3rd', 'periodTime': '20:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-24T14:48:29Z', 'goals': {'away': 2, 'home': 1}}, 'coordinates': {}}
+
+GAME PK:
+2010010030
+PLAY JSON:
+{'result': {'event': 'Game Official', 'eventCode': 'CAR981', 'eventTypeId': 'GAME_OFFICIAL', 'description': 'Game Official'}, 'about': {'eventIdx': 291, 'eventId': 981, 'period': 3, 'periodType': 'REGULAR', 'ordinalNum': '3rd', 'periodTime': '20:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-24T14:48:29Z', 'goals': {'away': 2, 'home': 1}}, 'coordinates': {}}
+
+GAME PK:
+2010010030
+PLAY JSON:
+{'result': {'event': 'Game Official', 'eventCode': 'CAR981', 'eventTypeId': 'GAME_OFFICIAL', 'description': 'Game Official'}, 'about': {'eventIdx': 291, 'eventId': 981, 'period': 3, 'periodType': 'REGULAR', 'ordinalNum': '3rd', 'periodTime': '20:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-24T14:48:29Z', 'goals': {'away': 2, 'home': 1}}, 'coordinates': {}}

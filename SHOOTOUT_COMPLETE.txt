@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010005
+PLAY JSON:
+{'result': {'event': 'Shootout Complete', 'eventCode': 'PHI646', 'eventTypeId': 'SHOOTOUT_COMPLETE', 'description': 'End of Shootout'}, 'about': {'eventIdx': 341, 'eventId': 646, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T01:42:47Z', 'goals': {'away': 3, 'home': 3}}, 'coordinates': {}}
+
+GAME PK:
+2010010005
+PLAY JSON:
+{'result': {'event': 'Shootout Complete', 'eventCode': 'PHI646', 'eventTypeId': 'SHOOTOUT_COMPLETE', 'description': 'End of Shootout'}, 'about': {'eventIdx': 341, 'eventId': 646, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T01:42:47Z', 'goals': {'away': 3, 'home': 3}}, 'coordinates': {}}
+
+GAME PK:
+2010010005
+PLAY JSON:
+{'result': {'event': 'Shootout Complete', 'eventCode': 'PHI646', 'eventTypeId': 'SHOOTOUT_COMPLETE', 'description': 'End of Shootout'}, 'about': {'eventIdx': 341, 'eventId': 646, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T01:42:47Z', 'goals': {'away': 3, 'home': 3}}, 'coordinates': {}}

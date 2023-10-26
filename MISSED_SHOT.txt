@@ -1,0 +1,20 @@
+
+GAME PK:
+2009020647
+PLAY JSON:
+{'players': [{'player': {'id': 8471339, 'fullName': 'Ryan Callahan', 'link': '/api/v1/people/8471339'}, 'playerType': 'Shooter'}, {'player': {'id': 8460704, 'fullName': 'Johan Hedberg', 'link': '/api/v1/people/8460704'}, 'playerType': 'Unknown'}], 'result': {'event': 'Missed Shot', 'eventCode': 'ATL3904', 'eventTypeId': 'MISSED_SHOT', 'description': 'Ryan Callahan'}, 'about': {'eventIdx': 18, 'eventId': 3904, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '', 'dateTime': '2010-01-08T00:00:00Z', 'goals': {'away': 1, 'home': 1}}, 'coordinates': {}, 'team': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3', 'triCode': 'NYR'}}
+
+GAME PK:
+2009020647
+PLAY JSON:
+{'players': [{'player': {'id': 8471339, 'fullName': 'Ryan Callahan', 'link': '/api/v1/people/8471339'}, 'playerType': 'Shooter'}, {'player': {'id': 8460704, 'fullName': 'Johan Hedberg', 'link': '/api/v1/people/8460704'}, 'playerType': 'Unknown'}], 'result': {'event': 'Missed Shot', 'eventCode': 'ATL3904', 'eventTypeId': 'MISSED_SHOT', 'description': 'Ryan Callahan'}, 'about': {'eventIdx': 18, 'eventId': 3904, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '', 'dateTime': '2010-01-08T00:00:00Z', 'goals': {'away': 1, 'home': 1}}, 'coordinates': {}, 'team': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3', 'triCode': 'NYR'}}
+
+GAME PK:
+2009020647
+PLAY JSON:
+{'players': [{'player': {'id': 8471339, 'fullName': 'Ryan Callahan', 'link': '/api/v1/people/8471339'}, 'playerType': 'Shooter'}, {'player': {'id': 8460704, 'fullName': 'Johan Hedberg', 'link': '/api/v1/people/8460704'}, 'playerType': 'Unknown'}], 'result': {'event': 'Missed Shot', 'eventCode': 'ATL3904', 'eventTypeId': 'MISSED_SHOT', 'description': 'Ryan Callahan'}, 'about': {'eventIdx': 18, 'eventId': 3904, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '', 'dateTime': '2010-01-08T00:00:00Z', 'goals': {'away': 1, 'home': 1}}, 'coordinates': {}, 'team': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3', 'triCode': 'NYR'}}
+
+GAME PK:
+2009020647
+PLAY JSON:
+{'players': [{'player': {'id': 8471339, 'fullName': 'Ryan Callahan', 'link': '/api/v1/people/8471339'}, 'playerType': 'Shooter'}, {'player': {'id': 8460704, 'fullName': 'Johan Hedberg', 'link': '/api/v1/people/8460704'}, 'playerType': 'Unknown'}], 'result': {'event': 'Missed Shot', 'eventCode': 'ATL3904', 'eventTypeId': 'MISSED_SHOT', 'description': 'Ryan Callahan'}, 'about': {'eventIdx': 18, 'eventId': 3904, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '', 'dateTime': '2010-01-08T00:00:00Z', 'goals': {'away': 1, 'home': 1}}, 'coordinates': {}, 'team': {'id': 3, 'name': 'New York Rangers', 'link': '/api/v1/teams/3', 'triCode': 'NYR'}}

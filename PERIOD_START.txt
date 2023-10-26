@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Period Start', 'eventCode': 'VAN51', 'eventTypeId': 'PERIOD_START', 'description': 'Period Start'}, 'about': {'eventIdx': 2, 'eventId': 51, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:22Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Period Start', 'eventCode': 'VAN51', 'eventTypeId': 'PERIOD_START', 'description': 'Period Start'}, 'about': {'eventIdx': 2, 'eventId': 51, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:22Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Period Start', 'eventCode': 'VAN51', 'eventTypeId': 'PERIOD_START', 'description': 'Period Start'}, 'about': {'eventIdx': 2, 'eventId': 51, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:22Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {}}

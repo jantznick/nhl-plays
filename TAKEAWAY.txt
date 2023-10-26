@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8471504, 'fullName': 'Rene Bourque', 'link': '/api/v1/people/8471504'}, 'playerType': 'PlayerID'}], 'result': {'event': 'Takeaway', 'eventCode': 'VAN11', 'eventTypeId': 'TAKEAWAY', 'description': 'Takeaway by Rene Bourque'}, 'about': {'eventIdx': 14, 'eventId': 11, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '02:03', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:11:24Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': 38.0, 'y': -4.0}, 'team': {'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20', 'triCode': 'CGY'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8471504, 'fullName': 'Rene Bourque', 'link': '/api/v1/people/8471504'}, 'playerType': 'PlayerID'}], 'result': {'event': 'Takeaway', 'eventCode': 'VAN11', 'eventTypeId': 'TAKEAWAY', 'description': 'Takeaway by Rene Bourque'}, 'about': {'eventIdx': 14, 'eventId': 11, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '02:03', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:11:24Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': 38.0, 'y': -4.0}, 'team': {'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20', 'triCode': 'CGY'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8471504, 'fullName': 'Rene Bourque', 'link': '/api/v1/people/8471504'}, 'playerType': 'PlayerID'}], 'result': {'event': 'Takeaway', 'eventCode': 'VAN11', 'eventTypeId': 'TAKEAWAY', 'description': 'Takeaway by Rene Bourque'}, 'about': {'eventIdx': 14, 'eventId': 11, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '02:03', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:11:24Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': 38.0, 'y': -4.0}, 'team': {'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20', 'triCode': 'CGY'}}

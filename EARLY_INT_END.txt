@@ -1,0 +1,15 @@
+
+GAME PK:
+2010020317
+PLAY JSON:
+{'result': {'event': 'Early Intermission End', 'eventCode': 'MIN767', 'eventTypeId': 'EARLY_INT_END', 'description': 'Early Intermission End'}, 'about': {'eventIdx': 98, 'eventId': 767, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '18:03', 'periodTimeRemaining': '01:57', 'dateTime': '2010-11-25T02:01:10Z', 'goals': {'away': 2, 'home': 0}}, 'coordinates': {}}
+
+GAME PK:
+2010020317
+PLAY JSON:
+{'result': {'event': 'Early Intermission End', 'eventCode': 'MIN767', 'eventTypeId': 'EARLY_INT_END', 'description': 'Early Intermission End'}, 'about': {'eventIdx': 98, 'eventId': 767, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '18:03', 'periodTimeRemaining': '01:57', 'dateTime': '2010-11-25T02:01:10Z', 'goals': {'away': 2, 'home': 0}}, 'coordinates': {}}
+
+GAME PK:
+2010020317
+PLAY JSON:
+{'result': {'event': 'Early Intermission End', 'eventCode': 'MIN767', 'eventTypeId': 'EARLY_INT_END', 'description': 'Early Intermission End'}, 'about': {'eventIdx': 98, 'eventId': 767, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '18:03', 'periodTimeRemaining': '01:57', 'dateTime': '2010-11-25T02:01:10Z', 'goals': {'away': 2, 'home': 0}}, 'coordinates': {}}

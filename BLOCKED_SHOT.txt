@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8475246, 'fullName': 'Kevin Connauton', 'link': '/api/v1/people/8475246'}, 'playerType': 'Blocker'}, {'player': {'id': 8475246, 'fullName': 'Kevin Connauton', 'link': '/api/v1/people/8475246'}, 'playerType': 'Shooter'}], 'result': {'event': 'Blocked Shot', 'eventCode': 'VAN60', 'eventTypeId': 'BLOCKED_SHOT', 'description': 'Kevin Connauton blocked shot from Kevin Connauton'}, 'about': {'eventIdx': 20, 'eventId': 60, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '03:04', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:12:55Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': 74.0, 'y': -1.0}, 'team': {'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23', 'triCode': 'VAN'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8475246, 'fullName': 'Kevin Connauton', 'link': '/api/v1/people/8475246'}, 'playerType': 'Blocker'}, {'player': {'id': 8475246, 'fullName': 'Kevin Connauton', 'link': '/api/v1/people/8475246'}, 'playerType': 'Shooter'}], 'result': {'event': 'Blocked Shot', 'eventCode': 'VAN60', 'eventTypeId': 'BLOCKED_SHOT', 'description': 'Kevin Connauton blocked shot from Kevin Connauton'}, 'about': {'eventIdx': 20, 'eventId': 60, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '03:04', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:12:55Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': 74.0, 'y': -1.0}, 'team': {'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23', 'triCode': 'VAN'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8475246, 'fullName': 'Kevin Connauton', 'link': '/api/v1/people/8475246'}, 'playerType': 'Blocker'}, {'player': {'id': 8475246, 'fullName': 'Kevin Connauton', 'link': '/api/v1/people/8475246'}, 'playerType': 'Shooter'}], 'result': {'event': 'Blocked Shot', 'eventCode': 'VAN60', 'eventTypeId': 'BLOCKED_SHOT', 'description': 'Kevin Connauton blocked shot from Kevin Connauton'}, 'about': {'eventIdx': 20, 'eventId': 60, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '03:04', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:12:55Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': 74.0, 'y': -1.0}, 'team': {'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23', 'triCode': 'VAN'}}

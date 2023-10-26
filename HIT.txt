@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8467943, 'fullName': 'Niklas Hagman', 'link': '/api/v1/people/8467943'}, 'playerType': 'Hitter'}, {'player': {'id': 8468485, 'fullName': 'Raffi Torres', 'link': '/api/v1/people/8468485'}, 'playerType': 'Hittee'}], 'result': {'event': 'Hit', 'eventCode': 'VAN5', 'eventTypeId': 'HIT', 'description': 'Niklas Hagman hit Raffi Torres'}, 'about': {'eventIdx': 4, 'eventId': 5, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:15', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:47Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': -44.0, 'y': 37.0}, 'team': {'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20', 'triCode': 'CGY'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8467943, 'fullName': 'Niklas Hagman', 'link': '/api/v1/people/8467943'}, 'playerType': 'Hitter'}, {'player': {'id': 8468485, 'fullName': 'Raffi Torres', 'link': '/api/v1/people/8468485'}, 'playerType': 'Hittee'}], 'result': {'event': 'Hit', 'eventCode': 'VAN5', 'eventTypeId': 'HIT', 'description': 'Niklas Hagman hit Raffi Torres'}, 'about': {'eventIdx': 4, 'eventId': 5, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:15', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:47Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': -44.0, 'y': 37.0}, 'team': {'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20', 'triCode': 'CGY'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8467943, 'fullName': 'Niklas Hagman', 'link': '/api/v1/people/8467943'}, 'playerType': 'Hitter'}, {'player': {'id': 8468485, 'fullName': 'Raffi Torres', 'link': '/api/v1/people/8468485'}, 'playerType': 'Hittee'}], 'result': {'event': 'Hit', 'eventCode': 'VAN5', 'eventTypeId': 'HIT', 'description': 'Niklas Hagman hit Raffi Torres'}, 'about': {'eventIdx': 4, 'eventId': 5, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:15', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:47Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': -44.0, 'y': 37.0}, 'team': {'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20', 'triCode': 'CGY'}}

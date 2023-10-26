@@ -1,0 +1,20 @@
+
+GAME PK:
+1999020522
+PLAY JSON:
+{'players': [{'player': {'id': 8467856, 'fullName': 'Brian Rafalski', 'link': '/api/v1/people/8467856'}, 'playerType': 'PenaltyOn'}], 'result': {'event': 'Penalty', 'eventCode': 'BOS10384', 'eventTypeId': 'PENALTY', 'description': 'Brian Rafalski Slashing', 'secondaryType': 'Slashing', 'penaltyMinutes': 2}, 'about': {'eventIdx': 4, 'eventId': 10384, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '06:24', 'periodTimeRemaining': '', 'dateTime': '2000-01-02T00:00:00Z', 'goals': {'away': 1, 'home': 0}}, 'coordinates': {}, 'team': {'id': 1, 'name': 'New Jersey Devils', 'link': '/api/v1/teams/1', 'triCode': 'NJD'}}
+
+GAME PK:
+1999020522
+PLAY JSON:
+{'players': [{'player': {'id': 8467856, 'fullName': 'Brian Rafalski', 'link': '/api/v1/people/8467856'}, 'playerType': 'PenaltyOn'}], 'result': {'event': 'Penalty', 'eventCode': 'BOS10384', 'eventTypeId': 'PENALTY', 'description': 'Brian Rafalski Slashing', 'secondaryType': 'Slashing', 'penaltyMinutes': 2}, 'about': {'eventIdx': 4, 'eventId': 10384, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '06:24', 'periodTimeRemaining': '', 'dateTime': '2000-01-02T00:00:00Z', 'goals': {'away': 1, 'home': 0}}, 'coordinates': {}, 'team': {'id': 1, 'name': 'New Jersey Devils', 'link': '/api/v1/teams/1', 'triCode': 'NJD'}}
+
+GAME PK:
+1999020522
+PLAY JSON:
+{'players': [{'player': {'id': 8467856, 'fullName': 'Brian Rafalski', 'link': '/api/v1/people/8467856'}, 'playerType': 'PenaltyOn'}], 'result': {'event': 'Penalty', 'eventCode': 'BOS10384', 'eventTypeId': 'PENALTY', 'description': 'Brian Rafalski Slashing', 'secondaryType': 'Slashing', 'penaltyMinutes': 2}, 'about': {'eventIdx': 4, 'eventId': 10384, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '06:24', 'periodTimeRemaining': '', 'dateTime': '2000-01-02T00:00:00Z', 'goals': {'away': 1, 'home': 0}}, 'coordinates': {}, 'team': {'id': 1, 'name': 'New Jersey Devils', 'link': '/api/v1/teams/1', 'triCode': 'NJD'}}
+
+GAME PK:
+1999020522
+PLAY JSON:
+{'players': [{'player': {'id': 8467856, 'fullName': 'Brian Rafalski', 'link': '/api/v1/people/8467856'}, 'playerType': 'PenaltyOn'}], 'result': {'event': 'Penalty', 'eventCode': 'BOS10384', 'eventTypeId': 'PENALTY', 'description': 'Brian Rafalski Slashing', 'secondaryType': 'Slashing', 'penaltyMinutes': 2}, 'about': {'eventIdx': 4, 'eventId': 10384, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '06:24', 'periodTimeRemaining': '', 'dateTime': '2000-01-02T00:00:00Z', 'goals': {'away': 1, 'home': 0}}, 'coordinates': {}, 'team': {'id': 1, 'name': 'New Jersey Devils', 'link': '/api/v1/teams/1', 'triCode': 'NJD'}}

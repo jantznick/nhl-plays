@@ -1,0 +1,10 @@
+
+GAME PK:
+2022010062
+PLAY JSON:
+{'players': [{'player': {'id': 8482077, 'fullName': 'Dylan Holloway', 'link': '/api/v1/people/8482077'}, 'playerType': 'Unknown'}, {'player': {'id': 8476945, 'fullName': 'Connor Hellebuyck', 'link': '/api/v1/people/8476945'}, 'playerType': 'Unknown'}], 'result': {'event': 'Failed Shot Attempt', 'eventCode': 'WPG758', 'eventTypeId': 'FAILED_SHOT_ATTEMPT', 'description': 'Dylan Holloway failed shot attempt on Connor Hellebuyck'}, 'about': {'eventIdx': 318, 'eventId': 758, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2022-10-02T02:58:20Z', 'goals': {'away': 2, 'home': 2}}, 'coordinates': {'x': 79.0, 'y': -4.0}, 'team': {'id': 22, 'name': 'Edmonton Oilers', 'link': '/api/v1/teams/22', 'triCode': 'EDM'}}
+
+GAME PK:
+2022010062
+PLAY JSON:
+{'players': [{'player': {'id': 8482077, 'fullName': 'Dylan Holloway', 'link': '/api/v1/people/8482077'}, 'playerType': 'Unknown'}, {'player': {'id': 8476945, 'fullName': 'Connor Hellebuyck', 'link': '/api/v1/people/8476945'}, 'playerType': 'Unknown'}], 'result': {'event': 'Failed Shot Attempt', 'eventCode': 'WPG758', 'eventTypeId': 'FAILED_SHOT_ATTEMPT', 'description': 'Dylan Holloway failed shot attempt on Connor Hellebuyck'}, 'about': {'eventIdx': 318, 'eventId': 758, 'period': 5, 'periodType': 'SHOOTOUT', 'ordinalNum': 'SO', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2022-10-02T02:58:20Z', 'goals': {'away': 2, 'home': 2}}, 'coordinates': {'x': 79.0, 'y': -4.0}, 'team': {'id': 22, 'name': 'Edmonton Oilers', 'link': '/api/v1/teams/22', 'triCode': 'EDM'}}

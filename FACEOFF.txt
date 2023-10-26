@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8470162, 'fullName': 'Matt Stajan', 'link': '/api/v1/people/8470162'}, 'playerType': 'Winner'}, {'player': {'id': 8467334, 'fullName': 'Manny Malhotra', 'link': '/api/v1/people/8467334'}, 'playerType': 'Loser'}], 'result': {'event': 'Faceoff', 'eventCode': 'VAN52', 'eventTypeId': 'FACEOFF', 'description': 'Matt Stajan faceoff won against Manny Malhotra'}, 'about': {'eventIdx': 3, 'eventId': 52, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:22Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': 0.0, 'y': 0.0}, 'team': {'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20', 'triCode': 'CGY'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8470162, 'fullName': 'Matt Stajan', 'link': '/api/v1/people/8470162'}, 'playerType': 'Winner'}, {'player': {'id': 8467334, 'fullName': 'Manny Malhotra', 'link': '/api/v1/people/8467334'}, 'playerType': 'Loser'}], 'result': {'event': 'Faceoff', 'eventCode': 'VAN52', 'eventTypeId': 'FACEOFF', 'description': 'Matt Stajan faceoff won against Manny Malhotra'}, 'about': {'eventIdx': 3, 'eventId': 52, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:22Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': 0.0, 'y': 0.0}, 'team': {'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20', 'triCode': 'CGY'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8470162, 'fullName': 'Matt Stajan', 'link': '/api/v1/people/8470162'}, 'playerType': 'Winner'}, {'player': {'id': 8467334, 'fullName': 'Manny Malhotra', 'link': '/api/v1/people/8467334'}, 'playerType': 'Loser'}], 'result': {'event': 'Faceoff', 'eventCode': 'VAN52', 'eventTypeId': 'FACEOFF', 'description': 'Matt Stajan faceoff won against Manny Malhotra'}, 'about': {'eventIdx': 3, 'eventId': 52, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:22Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': 0.0, 'y': 0.0}, 'team': {'id': 20, 'name': 'Calgary Flames', 'link': '/api/v1/teams/20', 'triCode': 'CGY'}}

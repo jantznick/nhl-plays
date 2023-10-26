@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8469598, 'fullName': 'Kevin Bieksa', 'link': '/api/v1/people/8469598'}, 'playerType': 'PlayerID'}], 'result': {'event': 'Giveaway', 'eventCode': 'VAN33', 'eventTypeId': 'GIVEAWAY', 'description': 'Giveaway by Kevin Bieksa'}, 'about': {'eventIdx': 48, 'eventId': 33, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '08:09', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:21:18Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': -31.0, 'y': -30.0}, 'team': {'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23', 'triCode': 'VAN'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8469598, 'fullName': 'Kevin Bieksa', 'link': '/api/v1/people/8469598'}, 'playerType': 'PlayerID'}], 'result': {'event': 'Giveaway', 'eventCode': 'VAN33', 'eventTypeId': 'GIVEAWAY', 'description': 'Giveaway by Kevin Bieksa'}, 'about': {'eventIdx': 48, 'eventId': 33, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '08:09', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:21:18Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': -31.0, 'y': -30.0}, 'team': {'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23', 'triCode': 'VAN'}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'players': [{'player': {'id': 8469598, 'fullName': 'Kevin Bieksa', 'link': '/api/v1/people/8469598'}, 'playerType': 'PlayerID'}], 'result': {'event': 'Giveaway', 'eventCode': 'VAN33', 'eventTypeId': 'GIVEAWAY', 'description': 'Giveaway by Kevin Bieksa'}, 'about': {'eventIdx': 48, 'eventId': 33, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '08:09', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:21:18Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {'x': -31.0, 'y': -30.0}, 'team': {'id': 23, 'name': 'Vancouver Canucks', 'link': '/api/v1/teams/23', 'triCode': 'VAN'}}

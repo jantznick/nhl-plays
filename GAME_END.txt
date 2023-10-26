@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Game End', 'eventCode': 'VAN1208', 'eventTypeId': 'GAME_END', 'description': 'Game End'}, 'about': {'eventIdx': 308, 'eventId': 1208, 'period': 3, 'periodType': 'REGULAR', 'ordinalNum': '3rd', 'periodTime': '20:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T04:25:16Z', 'goals': {'away': 3, 'home': 1}}, 'coordinates': {}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Game End', 'eventCode': 'VAN1208', 'eventTypeId': 'GAME_END', 'description': 'Game End'}, 'about': {'eventIdx': 308, 'eventId': 1208, 'period': 3, 'periodType': 'REGULAR', 'ordinalNum': '3rd', 'periodTime': '20:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T04:25:16Z', 'goals': {'away': 3, 'home': 1}}, 'coordinates': {}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Game End', 'eventCode': 'VAN1208', 'eventTypeId': 'GAME_END', 'description': 'Game End'}, 'about': {'eventIdx': 308, 'eventId': 1208, 'period': 3, 'periodType': 'REGULAR', 'ordinalNum': '3rd', 'periodTime': '20:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T04:25:16Z', 'goals': {'away': 3, 'home': 1}}, 'coordinates': {}}

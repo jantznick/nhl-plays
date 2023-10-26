@@ -1,0 +1,1 @@
+['Goal', 'Penalty', 'Shot', 'Missed Shot', 'Game Scheduled', 'Period Ready', 'Period Start', 'Faceoff', 'Hit', 'Stoppage', 'Takeaway', 'Blocked Shot', 'Giveaway', 'Period End', 'Period Official', 'Game End', 'Shootout Complete', 'Game Official', 'Early Intermission Start', 'Early Intermission End', 'Emergency Goaltender', 'Official Challenge', 'Failed Shot Attempt']

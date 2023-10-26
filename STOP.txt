@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Stoppage', 'eventCode': 'VAN6', 'eventTypeId': 'STOP', 'description': 'Puck in Netting'}, 'about': {'eventIdx': 6, 'eventId': 6, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:17', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:51Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Stoppage', 'eventCode': 'VAN6', 'eventTypeId': 'STOP', 'description': 'Puck in Netting'}, 'about': {'eventIdx': 6, 'eventId': 6, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:17', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:51Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Stoppage', 'eventCode': 'VAN6', 'eventTypeId': 'STOP', 'description': 'Puck in Netting'}, 'about': {'eventIdx': 6, 'eventId': 6, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:17', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:51Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {}}

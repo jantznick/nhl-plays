@@ -1,0 +1,15 @@
+
+GAME PK:
+2015020409
+PLAY JSON:
+{'result': {'event': 'Official Challenge', 'eventCode': 'WSH537', 'eventTypeId': 'CHALLENGE', 'description': "Coach's Challenge"}, 'about': {'eventIdx': 264, 'eventId': 537, 'period': 3, 'periodType': 'REGULAR', 'ordinalNum': '3rd', 'periodTime': '10:51', 'periodTimeRemaining': '09:09', 'dateTime': '2015-12-09T02:50:51Z', 'goals': {'away': 2, 'home': 2}}, 'coordinates': {}, 'team': {'id': 17, 'name': 'Detroit Red Wings', 'link': '/api/v1/teams/17', 'triCode': 'DET'}}
+
+GAME PK:
+2015020409
+PLAY JSON:
+{'result': {'event': 'Official Challenge', 'eventCode': 'WSH537', 'eventTypeId': 'CHALLENGE', 'description': "Coach's Challenge"}, 'about': {'eventIdx': 264, 'eventId': 537, 'period': 3, 'periodType': 'REGULAR', 'ordinalNum': '3rd', 'periodTime': '10:51', 'periodTimeRemaining': '09:09', 'dateTime': '2015-12-09T02:50:51Z', 'goals': {'away': 2, 'home': 2}}, 'coordinates': {}, 'team': {'id': 17, 'name': 'Detroit Red Wings', 'link': '/api/v1/teams/17', 'triCode': 'DET'}}
+
+GAME PK:
+2015020409
+PLAY JSON:
+{'result': {'event': 'Official Challenge', 'eventCode': 'WSH537', 'eventTypeId': 'CHALLENGE', 'description': "Coach's Challenge"}, 'about': {'eventIdx': 264, 'eventId': 537, 'period': 3, 'periodType': 'REGULAR', 'ordinalNum': '3rd', 'periodTime': '10:51', 'periodTimeRemaining': '09:09', 'dateTime': '2015-12-09T02:50:51Z', 'goals': {'away': 2, 'home': 2}}, 'coordinates': {}, 'team': {'id': 17, 'name': 'Detroit Red Wings', 'link': '/api/v1/teams/17', 'triCode': 'DET'}}

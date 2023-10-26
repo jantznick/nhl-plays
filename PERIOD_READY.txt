@@ -1,0 +1,15 @@
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Period Ready', 'eventCode': 'VAN2', 'eventTypeId': 'PERIOD_READY', 'description': 'Period Ready'}, 'about': {'eventIdx': 1, 'eventId': 2, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:20Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Period Ready', 'eventCode': 'VAN2', 'eventTypeId': 'PERIOD_READY', 'description': 'Period Ready'}, 'about': {'eventIdx': 1, 'eventId': 2, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:20Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {}}
+
+GAME PK:
+2010010001
+PLAY JSON:
+{'result': {'event': 'Period Ready', 'eventCode': 'VAN2', 'eventTypeId': 'PERIOD_READY', 'description': 'Period Ready'}, 'about': {'eventIdx': 1, 'eventId': 2, 'period': 1, 'periodType': 'REGULAR', 'ordinalNum': '1st', 'periodTime': '00:00', 'periodTimeRemaining': '00:00', 'dateTime': '2010-09-22T02:08:20Z', 'goals': {'away': 0, 'home': 0}}, 'coordinates': {}}
